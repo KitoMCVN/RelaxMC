@@ -1,0 +1,4 @@
+- API: Express.js, Typescript, MySQL.
+- WebUI: Nextjs, Typescript.
+- Forum: Nextjs, Typescript.
+- Panel: PHP.
